@@ -3,3 +3,4 @@ https://play.pokemonshowdown.com
 https://zekurly.netlify.app
 https://hitbox.io
 https://poki.com
+https://haxball.com
