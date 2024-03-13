@@ -6,3 +6,4 @@ https://poki.com
 https://haxball.com
 https://holyubofficial.net/
 https://r.codewars.ml/
+https://final.microtract.xyz
